@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/hw01-unit-test" />
+            <option value="$PROJECT_DIR$/hw02-abstraction" />
           </set>
         </option>
       </GradleProjectSettings>
