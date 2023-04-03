@@ -11,4 +11,5 @@
 rootProject.name = 'otus_main_patterns'
 include 'hw01-unit-test'
 include 'hw02-abstraction'
+include 'hw03-exception'
 
