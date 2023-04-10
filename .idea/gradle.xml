@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/hw03-exception" />
             <option value="$PROJECT_DIR$/hw04-command" />
             <option value="$PROJECT_DIR$/hw05-ioc" />
+            <option value="$PROJECT_DIR$/hw06-adapter" />
           </set>
         </option>
       </GradleProjectSettings>
